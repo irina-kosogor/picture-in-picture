@@ -7,3 +7,19 @@ body {
   margin: 0;
   min-height: 100vh;
 }
+
+video {
+  width: 65vw;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto 20px;
+}
+
+.hidden {
+  display: none;
+}
